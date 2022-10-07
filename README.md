@@ -1,4 +1,4 @@
-# Test repo
+# Empty repo
 
 - пункт 1
 - пункт 2
