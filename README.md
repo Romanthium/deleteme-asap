@@ -1,5 +1,5 @@
-# Test Repo
+# Test repo
 
-- one more string
-- please delete me ASAP
-- а теперь пишу по-русски. проверяю UTf-8
+- пункт 1
+- пункт 2
+- пункт 3
