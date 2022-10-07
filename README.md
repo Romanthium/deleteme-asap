@@ -1,4 +1,4 @@
-# Test repo
+# Mega repo
 
 - пункт 1
 - пункт 2
