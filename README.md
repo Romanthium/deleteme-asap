@@ -1,4 +1,4 @@
-# Empty repo
+# Linux repo
 
 - пункт 1
 - пункт 2
