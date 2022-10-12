@@ -1,8 +1,3 @@
-# Telran repo +
-## just for fun and so on
+# Telran Repo Example
 
-- пункт 1
-- пункт 2
-- пункт 3
-- пункт 4
-- пункт 5
+- [БЭМ: пример](https://andreibakhtinov.github.io/deleteme-asap/bem.html)
